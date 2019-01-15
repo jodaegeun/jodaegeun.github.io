@@ -31,7 +31,7 @@ google_analytics: UA-132497344 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Blog
-blog_description: The blog is not used currently.
+blog_description: The blog is not used currently..
 
 # Pagination
 paginate: 4
