@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Research
+permalink: /research/
+description: These are the research topics that I'm currently interested in.
 ---
 
 {% for project in site.projects %}
