@@ -7,7 +7,7 @@ description:
 
 <hr/>
 
-<h4>Education</h4>
+<h4><strong>Education</strong></h4>
 
 <ul type = "square">
    <li>2017-current : Ph.D. student in physics, Pohang University of Science and Technology</li>
@@ -16,7 +16,7 @@ description:
 
 <hr/>
 
-<h4>Awards & Honors</h4>
+<h4><strong>Awards & Honors</strong></h4>
 
 <ul type = "square">
    <li>2018 Global Ph.D. Fellowship (funded by National Research Foundation)</li>
@@ -25,7 +25,7 @@ description:
 
 <hr/>
 
-<h4>Publications</h4>
+<h4><strong>Publications</strong></h4>
 
 See [Publications page](/publications/).
 

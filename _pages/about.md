@@ -8,11 +8,11 @@ profile:
   align: center
   image: prof_pic.jpg
   address: >
-    <p>Daegeun Jo</p>
-    <p>Ph.D. student</p>
-    <p><a href="http://ph.postech.ac.kr/eng/main/main.php" target="_blank">Department of Physics</a></p>
-    <p><a href="http://www.postech.ac.kr" target="_blank">Pohang University of Science and Technology (POSTECH)</a></p>
-    <p>Republic of Korea</p>
+    <p><strong>Daegeun Jo</strong></p>
+    <p>Ph.D. student</p><br>
+    <em><p>Department of Physics,</p>
+    <p>Pohang University of Science and Technology,</p>
+    <p>Pohang 37673, Republic of Korea</p></em>
 
 news: false
 social: true

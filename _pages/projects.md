@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: These are the research topics that I'm currently interested in.
+description: These are the research topics that I'm currently interested in. Photos from <a href="https://pixabay.com/" target="_blank">Pixabay</a>.
 ---
 
 {% for project in site.projects %}
