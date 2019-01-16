@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>About me</strong>
+title: <strong>About</strong>
 description: 
 
 profile:
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p><strong>Daegeun Jo</strong></p>
-    <p>Ph.D. student</p><br>
+    <br>
     <em><p>Department of Physics,</p>
     <p>Pohang University of Science and Technology,</p>
     <p>Pohang 37673, Republic of Korea</p></em>
@@ -18,7 +18,7 @@ news: false
 social: true
 ---
 
-Thanks for dropping by! 
+Hello! Thanks for dropping by.
 
 I'm a Ph.D. student in <a href="http://ph.postech.ac.kr/eng/main/main.php" target="_blank">Department of Physics</a> at <a href="http://www.postech.ac.kr" target="_blank">Pohang University of Science and Technology (POSTECH)</a>. 
 

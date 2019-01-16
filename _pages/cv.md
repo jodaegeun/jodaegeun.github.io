@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: <strong>Curriculum vitae</strong>
+title: Curriculum vitae
 description: 
 ---
 
