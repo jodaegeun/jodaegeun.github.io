@@ -1,10 +1,11 @@
 .project {
     box-sizing: border-box;
-    float: left;
+    float: center;
     height: 250px;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: 500px;
+    display: block; margin: 0px auto;
 
     .thumbnail {
         overflow: hidden;
@@ -14,8 +15,6 @@
         img {
             height: auto;
             position: relative;
-                left: -25%;
-                top: -5%;
             width: 500px;
         }
 
