@@ -1,18 +1,20 @@
 ---
 layout: about
 permalink: /
-title: <strong>Daegeun Jo</strong>
-description: <a href="http://ph.postech.ac.kr/eng/main/main.php" target="_blank">Department of Physics</a>, <a href="http://www.postech.ac.kr" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
+title: <strong>About me</strong>
+description: 
 
 profile:
-  align: left
+  align: center
   image: prof_pic.jpg
   address: >
+    <p>Daegeun Jo</p>
     <p>Ph.D. student</p>
-    <p>Department of Physics,</p>
-    <p>POSTECH</p>
+    <p><a href="http://ph.postech.ac.kr/eng/main/main.php" target="_blank">Department of Physics</a></p>
+    <p><a href="http://www.postech.ac.kr" target="_blank">Pohang University of Science and Technology (POSTECH)</a></p>
+    <p>Republic of Korea</p>
 
-news: true
+news: false
 social: true
 ---
 
