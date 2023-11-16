@@ -3,19 +3,30 @@
     "name": "Daegeun Jo",
     "label": "",
     "image": "",
-    "email": "daegeun.jo@physics.uu.se",
-    "summary": "Please see the PDF file for details."
+    "degree": "PhD in Physics",
+    "email": "daegeun.jo@physics.uu.se"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+  "research": [
+        {
+      "name": "Department of Physics and Astronomy, Uppsala University",
+      "location": "Uppsala, Sweden",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.physics.uu.se/",
+      "startDate": "2023-9",
+      "endDate": "",
       "highlights": [
-        "Relativity"
+        "Supervisor: Prof. Peter Oppeneer"
+      ]
+    },
+    {
+      "name": "Peter Grünberg Institut and Institute for Advanced Simulation, Forschungszentrum Jülich",
+      "location": "Jülich, Germany",
+      "position": "Guest Scientist",
+      "url": "https://www.fz-juelich.de/en/pgi/pgi-1",
+      "startDate": "2022-4",
+      "endDate": "2022-7",
+      "highlights": [
+        "Supervisor: Prof. Yuriy Mokrousov"
       ]
     }
   ],
@@ -26,8 +37,8 @@
       "studyType": "Ph.D. in Physics",
       "location": "Pohang, Korea",
       "area":"",
-      "startDate": "2017",
-      "endDate": "2023",
+      "startDate": "2017-3",
+      "endDate": "2023-8",
       "score": "",
       "courses": [
         "Thesis: \"Generation, Detection, and Application of Orbital Dynamics\"",
@@ -40,8 +51,8 @@
       "studyType": "B.S. in Physics",
       "location": "Seoul, Korea",
       "area":"",
-      "startDate": "2011",
-      "endDate": "2017",
+      "startDate": "2011-3",
+      "endDate": "2017-2",
       "score": "",
       "courses": [],
       "url": "https://hanyang.ac.kr/web/eng"
