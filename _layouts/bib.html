@@ -120,14 +120,6 @@
             <em>{{ entry.journal }}</em>
           {% endif %}
         {%- endcapture -%}
-              {% if entry.type == "article" %}
-        {%- capture entrytype -%}
-          {% if entry.url %}
-            <em><a href="{{ entry.url }}" target="_blank">{{ entry.journal }}</a></em>
-          {% else %}
-            <em>{{ entry.journal }}</em>
-          {% endif %}
-        {%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
