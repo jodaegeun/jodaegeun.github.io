@@ -1,0 +1,40 @@
+---
+title: Short CV
+toc: false
+---
+
+::: {.cv-page}
+[Download full CV (PDF)](files/CV.pdf){.hero-button .hero-button-primary target="_blank" rel="noopener"}
+
+## Research Experience
+
+**Postdoctoral Researcher**, Sep. 2023 – present<br>
+Department of Physics and Astronomy, Uppsala University, Uppsala, Sweden  
+Supervisor: Prof. Peter M. Oppeneer
+
+**Guest Scientist**, Apr. 2022 – Jul. 2022<br>
+Peter Grünberg Institut and Institute for Advanced Simulation, Forschungszentrum Jülich, Jülich, Germany  
+Group of Prof. Yuriy Mokrousov
+
+## Education
+
+**Ph.D. in Physics**, Aug. 2023<br>
+Department of Physics, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea  
+Thesis: "Generation, Detection, and Application of Orbital Dynamics"  
+Supervisor: Prof. Hyun-Woo Lee
+
+**B.S. in Physics**, Feb. 2017<br>
+Department of Physics, Hanyang University, Seoul, Republic of Korea  
+
+
+## Awards & Honors
+
+-  2024\. S-Oil Dissertation of the Year Award (S-OIL Science and Culture Foundation)
+-  2023\. Best Paper Award for Graduate Students in the Department of Physics (POSTECH)
+-  2023\. B. I. Min Best Condensed Matter Theory Paper Award (POSTECH)
+-  2021\. Silver Prize at the 27th Samsung Humantech Paper Award (Samsung Electronics Co., Ltd.)
+-  2018\. Best presentation award (poster) at 2018 Korean Physical Society Fall Meeting
+-  2018–2023. Global Ph.D. Fellowship (funded by National Research Foundation)
+-  2011\. National Science & Technology Scholarship (funded by Korea Student Aid Foundation)
+:::
+

@@ -1,0 +1,6 @@
+---
+title: Publications
+toc: false
+---
+
+{{< include _publications-content.qmd >}}

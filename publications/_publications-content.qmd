@@ -1,0 +1,296 @@
+<p class="publication-note">† indicates equal contribution.</p>
+
+## Preprints
+
+<details class="publication-fold">
+<summary class="publication-fold-summary">Show preprints</summary>
+<div class="publication-fold-body">
+<div class="publication-list">
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong> and Peter M. Oppeneer</div>
+  <div class="publication-title">Unconventional orbital currents and torques due to ferro-rotational orbital textures</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2505.04363"><em>arXiv</em>: 2505.04363 (2026)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Nikhil Vijayan, Durgesh Kumar, Ao Du, Mirco Sastges, Lei Gao, Zijie Xiao, Dongwook Go, José Omar Ledesma-Martin, Hai I. Wang, <strong>Daegeun Jo</strong>, Peter M. Oppeneer, Rahul Gupta, Gerhard Jakob, Sachin Krishnia, Yuriy Mokrousov, and Mathias Kläui</div>
+  <div class="publication-title">Itinerant Orbital Hall Effect Mechanism Leading to Large Negative Orbital Torques from Light Metal Vanadium</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2508.16339"><em>arXiv</em>: 2508.16339 (2025)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Sanaz Alikhah, <strong>Daegeun Jo</strong>, Marco Berritta, and Peter M. Oppeneer</div>
+  <div class="publication-title">Theory for Magneto-Optical Detection of the Interfacial Orbital Rashba-Edelstein Effect</div>
+  <div class="publication-venue"><a href="https://doi.org/10.21203/rs.3.rs-7868376/v1"><em>preprint available at Research Square</em> (2025)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.21203/rs.3.rs-7868376/v1" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.21203/rs.3.rs-7868376/v1"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Juan Carlos Idrobo, Ján Rusz, Gopal Datt, <strong>Daegeun Jo</strong>, Sanaz Alikhah, David Muradas, Ulrich Noumbe, M. Venkata Kamalakar, and Peter M. Oppeneer</div>
+  <div class="publication-title">Direct observation of nanometer-scale orbital angular momentum accumulation</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2403.09269"><em>arXiv</em>: 2403.09269 (2024)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Junyeon Kim, Jun Uzuhashi, Dongwook Go, <strong>Daegeun Jo</strong>, Tadakatsu Ohkubo, Seiji Mitani, Hyun-Woo Lee, and YoshiChika Otani</div>
+  <div class="publication-title">Emerging effects of oxygen accumulation on orbital torque</div>
+  <div class="publication-venue"><a href="https://doi.org/10.21203/rs.3.rs-2451981/v1"><em>preprint available at Research Square</em> (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.21203/rs.3.rs-2451981/v1" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.21203/rs.3.rs-2451981/v1"></span>
+</span></div>
+</div>
+</div>
+</div>
+</details>
+
+## Peer-Reviewed Articles
+
+<div class="publication-list">
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong> and Peter M. Oppeneer</div>
+  <div class="publication-title">Theoretical study of orbital torque: Dependence on ferromagnet species and nonmagnetic layer thickness</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1063/5.0312221"><em>Journal of Applied Physics</em> <strong>139</strong>, 103907 (2026)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0312221" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1063/5.0312221"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Kai Du, <strong>Daegeun Jo</strong>, Xianghan Xu, Fei-Ting Huang, Ming-Hao Lee, Ming-Wen Chu, Kefeng Wang, Xiaoyu Guo, Liuyan Zhao, David Vanderbilt, Hyun-Woo Lee, and Sang-Wook Cheong</div>
+  <div class="publication-title">Electric toroidal invariance generates distinct transverse electromagnetic responses</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s41567-025-03100-7"><em>Nature Physics</em> <strong>22</strong>, 61-67 (2026)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41567-025-03100-7" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s41567-025-03100-7"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Hiroki Hayashi, Jieyi Chen, <strong>Daegeun Jo</strong>, Shoya Sakamoto, Tenghua Gao, Dongwook Go, Yuriy Mokrousov, Hyun-Woo Lee, Shinji Miwa, and Kazuya Ando</div>
+  <div class="publication-title">Crystallographic Engineering for Enhanced Orbital Torque</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1021/acs.nanolett.5c04272"><em>Nano Letters</em> <strong>25</strong>, 15124-15129 (2025)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.nanolett.5c04272" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1021/acs.nanolett.5c04272"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Seungyun Han<sup>†</sup>, <strong>Daegeun Jo</strong><sup>†</sup>, Insu Baek<sup>†</sup>, Suik Cheon, Peter M. Oppeneer, and Hyun-Woo Lee</div>
+  <div class="publication-title">Harnessing Magnetic Octupole Hall Effect to Induce Torque in Altermagnets</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/lxkx-ypbg"><em>Phys. Rev. Lett.</em> <strong>135</strong>, 076705 (2025)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/lxkx-ypbg" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/lxkx-ypbg"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Dongwook Go, Yuriy Mokrousov, Peter M. Oppeneer, Sang-Wook Cheong, and Hyun-Woo Lee</div>
+  <div class="publication-title">Weak Ferromagnetism in Altermagnets from Alternating g-Tensor Anisotropy</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevLett.134.196703"><em>Phys. Rev. Lett.</em> <strong>134</strong>, 196703 (2025)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.196703" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevLett.134.196703"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Dongwook Go, Gyung-Min Choi, and Hyun-Woo Lee</div>
+  <div class="publication-title">Spintronics meets orbitronics: Emergence of orbital angular momentum in solids</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s44306-024-00023-6"><em>npj Spintronics</em> <strong>2</strong>, 19 (2024)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s44306-024-00023-6" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s44306-024-00023-6"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Hiroyuki Moriya<sup>†</sup>, Mari Taniguchi<sup>†</sup>, <strong>Daegeun Jo</strong><sup>†</sup>, Dongwook Go, Nozomi Soya, Hiroki Hayashi, Yuriy Mokrousov, Hyun-Woo Lee, and Kazuya Ando</div>
+  <div class="publication-title">Observation of Long-Range Current-Induced Torque in Ni/Pt Bilayers</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1021/acs.nanolett.3c05102"><em>Nano Letters</em> <strong>24</strong>, 6459-6464 (2024)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.nanolett.3c05102" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1021/acs.nanolett.3c05102"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Junyeon Kim, Jun Uzuhashi, Masafumi Horio, Tomoaki Senoo, Dongwook Go, <strong>Daegeun Jo</strong>, Toshihide Sumi, Tetsuya Wada, Iwao Matsuda, Tadakatsu Ohkubo, Seiji Mitani, Hyun-Woo Lee, and YoshiChika Otani</div>
+  <div class="publication-title">Oxide layer dependent orbital torque efficiency in ferromagnet/Cu/oxide heterostructures</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevMaterials.7.L111401"><em>Phys. Rev. Mater.</em> <strong>7</strong>, L111401 (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevMaterials.7.L111401" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevMaterials.7.L111401"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Young-Gwan Choi<sup>†</sup>, <strong>Daegeun Jo</strong><sup>†</sup>, Kyung-Hun Ko<sup>†</sup>, Dongwook Go, Kyung-Han Kim, Hee Gyum Park, Changyoung Kim, Byoung-Chul Min, Gyung-Min Choi, and Hyun-Woo Lee</div>
+  <div class="publication-title">Observation of the orbital Hall effect in a light metal Ti</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s41586-023-06101-9"><em>Nature</em> <strong>619</strong>, 52-56 (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-023-06101-9" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s41586-023-06101-9"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Dongwook Go, <strong>Daegeun Jo</strong>, Kyoung-Whan Kim, Soogil Lee, Min-Gu Kang, Byong-Guk Park, Stefan Blügel, Hyun-Woo Lee, and Yuriy Mokrousov</div>
+  <div class="publication-title">Long-Range Orbital Torque by Momentum-Space Hotspots</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevLett.130.246701"><em>Phys. Rev. Lett.</em> <strong>130</strong>, 246701 (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.130.246701" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevLett.130.246701"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Hiroki Hayashi, <strong>Daegeun Jo</strong>, Dongwook Go, Tenghua Gao, Satoshi Haku, Yuriy Mokrousov, Hyun-Woo Lee, and Kazuya Ando</div>
+  <div class="publication-title">Observation of long-range orbital transport and giant orbital torque</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s42005-023-01139-7"><em>Communications Physics</em> <strong>6</strong>, 32 (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s42005-023-01139-7" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s42005-023-01139-7"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Dongwook Go, <strong>Daegeun Jo</strong>, Hyun-Woo Lee, Mathias Kläui, and Yuriy Mokrousov</div>
+  <div class="publication-title">Orbitronics: Orbital currents in solids</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1209/0295-5075/ac2653"><em>EPL (Europhysics Letters)</em> <strong>135</strong>, 37001 (2021)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1209/0295-5075/ac2653" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1209/0295-5075/ac2653"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Dongjoon Lee, Dongwook Go, Hyeon-Jong Park, Wonmin Jeong, Hye-Won Ko, Deokhyun Yun, <strong>Daegeun Jo</strong>, Soogil Lee, Gyungchoon Go, Jung Hyun Oh, Kab-Jin Kim, Byong-Guk Park, Byoung-Chul Min, Hyun Cheol Koo, Hyun-Woo Lee, OukJae Lee, and Kyung-Jin Lee</div>
+  <div class="publication-title">Orbital torque in magnetic bilayers</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s41467-021-26650-9"><em>Nature Communications</em> <strong>12</strong>, 6710 (2021)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-021-26650-9" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s41467-021-26650-9"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Dongwook Go, <strong>Daegeun Jo</strong>, Tenghua Gao, Kazuya Ando, Stefan Blügel, Hyun-Woo Lee, and Yuriy Mokrousov</div>
+  <div class="publication-title">Orbital Rashba effect in a surface-oxidized Cu film</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevB.103.L121113"><em>Phys. Rev. B</em> <strong>103</strong>, L121113 (2021)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.103.L121113" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevB.103.L121113"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Kaixuan Zhang, Seungyun Han, Youjin Lee, Matthew J. Coak, Junghyun Kim, Inho Hwang, Suhan Son, Jeacheol Shin, Mijin Lim, <strong>Daegeun Jo</strong>, Kyoo Kim, Dohun Kim, Hyun-Woo Lee, and Je-Geun Park</div>
+  <div class="publication-title">Gigantic Current Control of Coercive Field and Magnetic Memory Based on Nanometer-Thin Ferromagnetic van der Waals Fe3GeTe2</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1002/adma.202004110"><em>Advanced Materials</em> <strong>33</strong>, 2004110 (2021)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1002/adma.202004110" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1002/adma.202004110"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Junyeon Kim, Dongwook Go, Hanshen Tsai, <strong>Daegeun Jo</strong>, Kouta Kondou, Hyun-Woo Lee, and YoshiChika Otani</div>
+  <div class="publication-title">Nontrivial torque generation by orbital angular momentum injection in ferromagnetic-metal/Cu/Al2O3 trilayers</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevB.103.L020407"><em>Phys. Rev. B</em> <strong>103</strong>, L020407 (2021)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.103.L020407" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevB.103.L020407"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Z. C. Zheng, Q. X. Guo, <strong>D. Jo</strong>, D. Go, L. H. Wang, H. C. Chen, W. Yin, X. M. Wang, G. H. Yu, W. He, H.-W. Lee, J. Teng, and T. Zhu</div>
+  <div class="publication-title">Magnetization switching driven by current-induced torque from weakly spin-orbit coupled Zr</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevResearch.2.013127"><em>Phys. Rev. Research</em> <strong>2</strong>, 013127 (2020)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.013127" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevResearch.2.013127"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Dongwook Go, and Hyun-Woo Lee</div>
+  <div class="publication-title">Gigantic intrinsic orbital Hall effects in weakly spin-orbit coupled metals</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevB.98.214405"><em>Phys. Rev. B</em> <strong>98</strong>, 214405 (2018)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.98.214405" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevB.98.214405"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Dongwook Go, <strong>Daegeun Jo</strong>, Changyoung Kim, and Hyun-Woo Lee</div>
+  <div class="publication-title">Intrinsic Spin and Orbital Hall Effects from Orbital Texture</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevLett.121.086602"><em>Phys. Rev. Lett.</em> <strong>121</strong>, 086602 (2018)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.121.086602" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevLett.121.086602"></span>
+</span></div>
+</div>
+</div>
+
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const fold = document.querySelector(".publication-fold");
+  if (!fold) return;
+
+  const summary = fold.querySelector(".publication-fold-summary");
+  const body = fold.querySelector(".publication-fold-body");
+  if (!summary || !body) return;
+
+  let isAnimating = false;
+
+  const finishOpen = () => {
+    body.style.height = "auto";
+    body.style.overflow = "visible";
+    body.style.transition = "";
+    body.style.opacity = "1";
+    body.style.transform = "translateY(0)";
+    isAnimating = false;
+  };
+
+  const finishClose = () => {
+    fold.open = false;
+    body.style.height = "";
+    body.style.overflow = "";
+    body.style.transition = "";
+    body.style.opacity = "";
+    body.style.transform = "";
+    isAnimating = false;
+  };
+
+  summary.addEventListener("click", (event) => {
+    event.preventDefault();
+    if (isAnimating) return;
+
+    const isOpen = fold.open;
+    isAnimating = true;
+    body.style.overflow = "hidden";
+
+    if (!isOpen) {
+      fold.open = true;
+      body.style.height = "0px";
+      body.style.opacity = "0";
+      body.style.transform = "translateY(-6px)";
+      const endHeight = body.scrollHeight;
+
+      requestAnimationFrame(() => {
+        body.style.transition = "height 360ms cubic-bezier(0.22, 1, 0.36, 1), opacity 280ms ease, transform 360ms cubic-bezier(0.22, 1, 0.36, 1)";
+        body.style.height = `${endHeight}px`;
+        body.style.opacity = "1";
+        body.style.transform = "translateY(0)";
+      });
+
+      body.addEventListener("transitionend", finishOpen, { once: true });
+      return;
+    }
+
+    body.style.height = `${body.offsetHeight}px`;
+    body.style.opacity = "1";
+    body.style.transform = "translateY(0)";
+
+    requestAnimationFrame(() => {
+      body.style.transition = "height 280ms cubic-bezier(0.4, 0, 0.2, 1), opacity 180ms ease, transform 280ms cubic-bezier(0.4, 0, 0.2, 1)";
+      body.style.height = "0px";
+      body.style.opacity = "0";
+      body.style.transform = "translateY(-4px)";
+    });
+
+    body.addEventListener("transitionend", finishClose, { once: true });
+  });
+});
+</script>

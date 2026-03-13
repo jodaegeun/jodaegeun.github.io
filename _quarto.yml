@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+    - python3 tools/render_publications.py
+
+website:
+  title: "Daegeun Jo"
+  description: "Academic website for Daegeun Jo, postdoctoral researcher in physics at Uppsala University."
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      - href: cv.qmd
+        text: Curriculum Vitae
+    right:
+      - icon: envelope
+        href: mailto:daegeun.jo@physics.uu.se
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=lz9PnqEAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/jodaegeun
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Daegeun Jo"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    link-external-newwindow: true

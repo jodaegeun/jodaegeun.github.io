@@ -1,0 +1,31 @@
+<div class="publication-list">
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Dongwook Go, Yuriy Mokrousov, Peter M. Oppeneer, Sang-Wook Cheong, and Hyun-Woo Lee</div>
+  <div class="publication-title">Weak Ferromagnetism in Altermagnets from Alternating g-Tensor Anisotropy</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevLett.134.196703"><em>Phys. Rev. Lett.</em> <strong>134</strong>, 196703 (2025)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.196703" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevLett.134.196703"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Young-Gwan Choi<sup>†</sup>, <strong>Daegeun Jo</strong><sup>†</sup>, Kyung-Hun Ko<sup>†</sup>, Dongwook Go, Kyung-Han Kim, Hee Gyum Park, Changyoung Kim, Byoung-Chul Min, Gyung-Min Choi, and Hyun-Woo Lee</div>
+  <div class="publication-title">Observation of the orbital Hall effect in a light metal Ti</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s41586-023-06101-9"><em>Nature</em> <strong>619</strong>, 52-56 (2023)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-023-06101-9" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s41586-023-06101-9"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Dongwook Go, and Hyun-Woo Lee</div>
+  <div class="publication-title">Gigantic intrinsic orbital Hall effects in weakly spin-orbit coupled metals</div>
+  <div class="publication-venue"><a href="https://doi.org/10.1103/PhysRevB.98.214405"><em>Phys. Rev. B</em> <strong>98</strong>, 214405 (2018)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.98.214405" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1103/PhysRevB.98.214405"></span>
+</span></div>
+</div>
+</div>
+
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js"></script>

@@ -1,0 +1,54 @@
+---
+title: ""
+toc: false
+---
+
+::: {.home-page}
+::: {.hero-shell}
+::: {.hero-layout}
+::: {.hero-media}
+<img src="images/profile.jpg" alt="Portrait of Daegeun Jo" class="profile-photo">
+:::
+
+::: {.hero-copy}
+<div class="hero-name">Daegeun Jo, PhD</div>
+<div class="hero-role">Theoretical condensed matter physics · Magnetism · Spintronics · Orbitronics</div>
+<p class="hero-blurb hero-affiliation">Postdoctoral Researcher<br>Department of Physics and Astronomy<br>
+Uppsala University<br>P.O. Box 516, SE-75120 Uppsala, Sweden</p>
+
+::: {.button-row}
+[Google Scholar](https://scholar.google.com/citations?user=lz9PnqEAAAAJ&amp;hl=en){.hero-button}
+[Full CV](files/CV.pdf){.hero-button .hero-button-primary target="_blank" rel="noopener"}
+:::
+:::
+:::
+:::
+
+## Selected Publications
+
+{{< include _selected-publications.qmd >}}
+
+::: {.feature-grid}
+::: {.feature-card}
+### Current Focus
+
+- Spin and orbital transport
+- Magneto-optic effects
+- Altermagnetism
+- Multipolar systems 
+:::
+
+::: {.feature-card}
+### Tools
+
+- Tight-binding model
+- First-principles calculations
+- Linear-response theory
+:::
+:::
+
+---
+
+Contact: [daegeun.jo@physics.uu.se](mailto:daegeun.jo@physics.uu.se)<br>
+Links: [Google Scholar](https://scholar.google.com/citations?user=lz9PnqEAAAAJ&amp;hl=en), [Research Gate](https://www.researchgate.net/profile/Daegeun-Jo), [ORCID](https://orcid.org/0000-0002-0655-4552), [GitHub](https://github.com/jodaegeun)
+:::

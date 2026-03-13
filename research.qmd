@@ -1,0 +1,59 @@
+---
+title: Research
+toc-depth: 3
+---
+
+<p class="research-intro">I work in theoretical condensed matter physics, focusing on novel electromagnetic phenomena in materials. My research spans electronic structure, electromagnetic response, and transport, with particular emphasis on spin and orbital degrees of freedom. An important part is to connect microscopic theoretical mechanisms with experimentally observable signatures.</p>
+
+::: {.research-block}
+## Orbitronics and Orbital Transport
+
+Orbitronics extends the concepts of spintronics to the orbital angular momentum of electrons. Although orbital angular momentum is a fundamental quantum degree of freedom, its role in nonequilibrium phenomena has long been underappreciated. My research focuses on how orbital angular momentum is generated and transported in materials, and how it can be converted into the torques or optical signals that can be experimentally detected.
+
+
+**Relevant topics**
+
+- orbital Hall effect and orbital Rashba-Edelstein effect
+- magneto-optical detection of orbital transport
+- orbital torque in magnetic heterostructures
+
+**Related publications**
+
+- [*npj Spintronics* **2**, 19 (2024)](https://doi.org/10.1038/s44306-024-00023-6)
+- [*Nature* **619**, 52-56 (2023)](https://doi.org/10.1038/s41586-023-06101-9)
+:::
+
+::: {.research-block}
+## Emergent Physics in Altermagnets
+
+Altermagnets have recently emerged as a distinct class of magnetic materials beyond conventional ferromagnets and antiferromagnets. They raise a number of open conceptual and technical questions that are still being actively debated. My research aims to identify the unique properties and phenomena that distinguish altermagnets from conventional magnetic systems.
+
+
+**Relevant topics**
+
+- magnetic multipole responses
+- weak ferromagnetism in altermagnets
+- potential applications in magnetic devices
+
+**Related publications**
+
+- [*Phys. Rev. Lett.* **134**, 196703 (2025)](https://doi.org/10.1103/PhysRevLett.134.196703)
+- [*Phys. Rev. Lett.* **135**, 076705 (2025)](https://doi.org/10.1103/lxkx-ypbg)
+:::
+
+::: {.research-block}
+## Electromagnetic Responses and Multipoles
+
+Electromagnetic multipoles are fundamental building blocks for describing symmetry and response in condensed matter systems. Remarkably, higher-order multipoles can couple strongly to spin and orbital degrees of freedom, giving rise to unconventional electromagnetic effects in a wide range of materials. Such phenomena can appear not only in systems with multipolar order, such as altermagnets and ferro-rotational materials, but also in conventional metals.
+
+**Relevant topics**
+
+- anomalous electromagnetic responses
+- multipolar transport
+- connections to orbital transport
+
+**Related publications**
+
+- [arXiv:2505.04363 (2026)](https://arxiv.org/abs/2505.04363)
+- [*Nature Physics* **22**, 61-67 (2026)](https://doi.org/10.1038/s41567-025-03100-7)
+:::
