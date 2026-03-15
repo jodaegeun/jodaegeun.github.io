@@ -9,13 +9,13 @@
 <div class="publication-entry">
   <div class="publication-authors"><strong>Daegeun Jo</strong> and Peter M. Oppeneer</div>
   <div class="publication-title">Unconventional orbital currents and torques due to ferro-rotational orbital textures</div>
-  <div class="publication-venue"><a href="https://arxiv.org/abs/2505.04363"><em>arXiv</em>: 2505.04363 (2026)</a></div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2505.04363"><em>arXiv</em>:2505.04363 (2026)</a></div>
 </div>
 
 <div class="publication-entry">
   <div class="publication-authors">Nikhil Vijayan, Durgesh Kumar, Ao Du, Mirco Sastges, Lei Gao, Zijie Xiao, Dongwook Go, José Omar Ledesma-Martin, Hai I. Wang, <strong>Daegeun Jo</strong>, Peter M. Oppeneer, Rahul Gupta, Gerhard Jakob, Sachin Krishnia, Yuriy Mokrousov, and Mathias Kläui</div>
   <div class="publication-title">Itinerant Orbital Hall Effect Mechanism Leading to Large Negative Orbital Torques from Light Metal Vanadium</div>
-  <div class="publication-venue"><a href="https://arxiv.org/abs/2508.16339"><em>arXiv</em>: 2508.16339 (2025)</a></div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2508.16339"><em>arXiv</em>:2508.16339 (2025)</a></div>
 </div>
 
 <div class="publication-entry">
@@ -30,7 +30,7 @@
 <div class="publication-entry">
   <div class="publication-authors">Juan Carlos Idrobo, Ján Rusz, Gopal Datt, <strong>Daegeun Jo</strong>, Sanaz Alikhah, David Muradas, Ulrich Noumbe, M. Venkata Kamalakar, and Peter M. Oppeneer</div>
   <div class="publication-title">Direct observation of nanometer-scale orbital angular momentum accumulation</div>
-  <div class="publication-venue"><a href="https://arxiv.org/abs/2403.09269"><em>arXiv</em>: 2403.09269 (2024)</a></div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2403.09269"><em>arXiv</em>:2403.09269 (2024)</a></div>
 </div>
 
 <div class="publication-entry">

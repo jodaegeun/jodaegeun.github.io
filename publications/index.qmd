@@ -3,4 +3,6 @@ title: Publications
 toc: false
 ---
 
+::: {.publications-page}
 {{< include _publications-content.qmd >}}
+:::

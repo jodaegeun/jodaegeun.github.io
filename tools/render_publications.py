@@ -222,7 +222,7 @@ def preprint_venue(fields: dict[str, str]) -> str:
     year = html.escape(extract_year(fields))
 
     if archive == "arxiv" and eprint:
-        venue = f"<em>arXiv</em>: {eprint}"
+        venue = f"<em>arXiv</em>:{eprint}"
         if year:
             venue = f"{venue} ({year})"
         return venue
