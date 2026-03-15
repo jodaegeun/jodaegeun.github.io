@@ -253,9 +253,41 @@ h1, h2, h3, h4, .navbar-title {
   margin-top: 1.25rem;
 }
 
+.publication-year-group {
+  margin-top: 1.5rem;
+}
+
+.publication-year-group + .publication-year-group {
+  margin-top: 2rem;
+}
+
+.publication-year {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid rgba(24, 33, 45, 0.14);
+  font-size: 1.25rem;
+}
+
 .publication-entry {
-  padding: 1rem 0 1.2rem;
-  border-bottom: 1px solid rgba(24, 33, 45, 0.1);
+  padding: 0 0 1.2rem;
+  border-bottom: none;
+}
+
+.publication-entry + .publication-entry {
+  margin-top: 0.9rem;
+}
+
+.publication-year-group .publication-list {
+  margin-top: 0;
+}
+
+.publication-year-group .publication-entry:first-child {
+  padding-top: 0.15rem;
+}
+
+.publication-year-group .publication-entry:last-child {
+  padding-bottom: 0.3rem;
 }
 
 .publication-authors,

@@ -167,6 +167,11 @@ def extract_year(fields: dict[str, str]) -> str:
     return match.group(1) if match else ""
 
 
+def year_sort_value(fields: dict[str, str]) -> int:
+    year = extract_year(fields)
+    return int(year) if year.isdigit() else 0
+
+
 def make_preprint_url(fields: dict[str, str]) -> str:
     eprint = fields.get("eprint", "").strip()
     archive = normalize_text(fields.get("archiveprefix", "") or fields.get("eprinttype", "")).lower()
@@ -266,15 +271,47 @@ def format_entry(fields: dict[str, str]) -> str:
 
 
 def selected_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
-    return [entry for entry in entries if normalize_text(entry.get("selected", "")).lower() == "true"]
+    selected = [entry for entry in entries if normalize_text(entry.get("selected", "")).lower() == "true"]
+    return sorted(selected, key=year_sort_value, reverse=True)
+
+
+def grouped_entries_html(entries: list[dict[str, str]]) -> str:
+    sorted_entries = sorted(entries, key=year_sort_value, reverse=True)
+    grouped: dict[str, list[dict[str, str]]] = {}
+    year_order: list[str] = []
+
+    for entry in sorted_entries:
+        year = extract_year(entry) or "Other"
+        if year not in grouped:
+            grouped[year] = []
+            year_order.append(year)
+        grouped[year].append(entry)
+
+    groups: list[str] = []
+    for year in year_order:
+        group_html = "\n\n".join(format_entry(entry) for entry in grouped[year])
+        groups.append(
+            "\n".join(
+                [
+                    '<div class="publication-year-group">',
+                    f'  <h3 class="publication-year">{html.escape(year)}</h3>',
+                    '  <div class="publication-list">',
+                    group_html,
+                    "  </div>",
+                    "</div>",
+                ]
+            )
+        )
+
+    return "\n\n".join(groups)
 
 
 def build_page(entries: dict[str, list[dict[str, str]]]) -> str:
     publications = entries["publications"]
     preprints = entries["preprints"]
 
-    publication_html = "\n\n".join(format_entry(entry) for entry in publications)
-    preprint_html = "\n\n".join(format_entry(entry) for entry in preprints)
+    publication_html = grouped_entries_html(publications)
+    preprint_html = "\n\n".join(format_entry(entry) for entry in sorted(preprints, key=year_sort_value, reverse=True))
 
     return f"""<p class="publication-note">† indicates equal contribution.</p>
 
@@ -291,9 +328,7 @@ def build_page(entries: dict[str, list[dict[str, str]]]) -> str:
 
 ## Peer-Reviewed Articles
 
-<div class="publication-list">
 {publication_html}
-</div>
 
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js"></script>
