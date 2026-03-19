@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import html
 import re
+from datetime import date as current_date
 from pathlib import Path
 
 
@@ -162,9 +163,16 @@ def extract_year(fields: dict[str, str]) -> str:
     year = fields.get("year", "").strip()
     if year:
         return normalize_text(year)
-    date = fields.get("date", "")
-    match = re.search(r"(\d{4})", date)
-    return match.group(1) if match else ""
+    date_field = fields.get("date", "")
+    match = re.search(r"(\d{4})", date_field)
+    if match:
+        return match.group(1)
+
+    status_text = normalize_text(" ".join([fields.get("journal", ""), fields.get("note", "")])).lower()
+    if "accepted for publication" in status_text:
+        return str(current_date.today().year)
+
+    return ""
 
 
 def year_sort_value(fields: dict[str, str]) -> int:
@@ -236,6 +244,12 @@ def venue_line(fields: dict[str, str]) -> str:
     volume = html.escape(normalize_text(fields.get("volume", "")))
     pages = html.escape(normalize_text(fields.get("pages", "")))
     year = html.escape(extract_year(fields))
+    status_text = normalize_text(" ".join([fields.get("journal", ""), fields.get("note", "")])).lower()
+    accepted_without_explicit_year = (
+        "accepted for publication" in status_text
+        and not fields.get("year", "").strip()
+        and not re.search(r"(\d{4})", fields.get("date", ""))
+    )
 
     venue = f"<em>{journal}</em>" if journal else preprint_venue(fields)
 
@@ -243,7 +257,7 @@ def venue_line(fields: dict[str, str]) -> str:
         venue = f"{venue} <strong>{volume}</strong>" if venue else f"<strong>{volume}</strong>"
     if pages:
         venue = f"{venue}, {pages}" if venue else pages
-    if year and not venue.endswith(f"({year})"):
+    if year and not accepted_without_explicit_year and not venue.endswith(f"({year})"):
         venue = f"{venue} ({year})" if venue else f"({year})"
 
     link = make_link(fields)
