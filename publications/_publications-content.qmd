@@ -7,6 +7,33 @@
 <div class="publication-fold-body">
 <div class="publication-list">
 <div class="publication-entry">
+  <div class="publication-authors"><strong>Daegeun Jo</strong>, Peter M. Oppeneer, and Mohsen Yarmohammadi</div>
+  <div class="publication-title">Interplay of nonrelativistic and relativistic spin splittings in altermagnets</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2608.XXXXX"><em>arXiv</em>:2608.XXXXX (2026)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Utkarsh Shashank, Akash Kumar, <strong>Daegeun Jo</strong>, Thi Ngoc Anh Nguyen, Jong-Guk Choi, Sambit Ghosh, Michal Strach, Lunjie Zeng, Andrew B Yankovich, Roman Khymyn, Ahmad A Awad, Eva Olsson, Peter M Oppeneer, and Johan Åkerman</div>
+  <div class="publication-title">Spin-Orbital Hall Nano-Oscillators using PtCr/NiFe</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2608.08504"><em>arXiv</em>:2608.08504 (2026)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Mohsen Yarmohammadi, <strong>Daegeun Jo</strong>, Marco Berritta, Libor Šmejkal, James K. Freericks, and Peter M. Oppeneer</div>
+  <div class="publication-title">Giant perpendicular Edelstein polarization in 2D compensated magnets via bichromatic Floquet driving</div>
+  <div class="publication-venue"><a href="https://arxiv.org/abs/2606.31867"><em>arXiv</em>:2606.31867 (2026)</a></div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-authors">Kyung-Hun Ko, <strong>Daegeun Jo</strong>, Peter Oppeneer, Hyun-Woo Lee, and Gyung-Min Choi</div>
+  <div class="publication-title">Electron scattering enhances orbital transport inamorphous Mn</div>
+  <div class="publication-venue"><a href="https://doi.org/10.21203/rs.3.rs-9248804/v1"><em>preprint available at Research Square</em> (2026)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.21203/rs.3.rs-9248804/v1" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.21203/rs.3.rs-9248804/v1"></span>
+</span></div>
+</div>
+
+<div class="publication-entry">
   <div class="publication-authors">Nikhil Vijayan, Durgesh Kumar, Ao Du, Mirco Sastges, Lei Gao, Zijie Xiao, Dongwook Go, José Omar Ledesma-Martin, Hai I. Wang, <strong>Daegeun Jo</strong>, Peter M. Oppeneer, Rahul Gupta, Gerhard Jakob, Sachin Krishnia, Yuriy Mokrousov, and Mathias Kläui</div>
   <div class="publication-title">Itinerant Orbital Hall Effect Mechanism Leading to Large Negative Orbital Torques from Light Metal Vanadium</div>
   <div class="publication-venue"><a href="https://arxiv.org/abs/2508.16339"><em>arXiv</em>:2508.16339 (2025)</a></div>
@@ -38,13 +65,19 @@
 <div class="publication-entry">
   <div class="publication-authors"><strong>Daegeun Jo</strong> and Peter M. Oppeneer</div>
   <div class="publication-title">Unconventional orbital currents and torques due to ferro-rotational orbital textures</div>
-  <div class="publication-venue"><em>npj Spintronics, accepted for publication</em></div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s44306-026-00141-3"><em>npj Spintronics</em> <strong>4</strong>, 22 (2026)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s44306-026-00141-3" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s44306-026-00141-3"></span>
+</span></div>
 </div>
 
 <div class="publication-entry">
   <div class="publication-authors">Kyung-Hun Ko<sup>†</sup>, <strong>Daegeun Jo</strong><sup>†</sup>, Peter M. Oppeneer, Hyun-Woo Lee, and Gyung-Min Choi</div>
   <div class="publication-title">Magneto-optical observation of electrically generated orbital polarization in pristine Cu and oxidized Cu</div>
-  <div class="publication-venue"><em>Communications Physics, accepted for publication</em></div>
+  <div class="publication-venue"><a href="https://doi.org/10.1038/s42005-026-02595-7"><em>Communications Physics</em> <strong>9</strong>, 174 (2026)</a><span class="publication-metrics">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s42005-026-02595-7" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+  <span class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-hide-no-mentions="true" data-doi="10.1038/s42005-026-02595-7"></span>
+</span></div>
 </div>
 
 <div class="publication-entry">
